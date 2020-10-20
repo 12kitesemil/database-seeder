@@ -1,0 +1,16 @@
+{
+  "name": "seeder",
+  "version": "1.0.0",
+  "description": "Database seeder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Emil",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "node": "^14.14.0"
+  }
+}
